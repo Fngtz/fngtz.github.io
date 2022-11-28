@@ -2,3 +2,6 @@ baseURL: https://fngtz.github.io/
 languageCode: zh
 title: Fngtz's Blog
 theme: "PaperMod"
+socialIcons:
+    - name: "email"
+      url: "mailto:fngtz@outlook.com"
