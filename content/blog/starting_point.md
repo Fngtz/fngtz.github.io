@@ -1,7 +1,7 @@
 ---
 title: "起始点"
 date: 2022-11-27T23:29:32+08:00
-draft: false
+draft: true
 ---
 
 我打算每周更新博客。
